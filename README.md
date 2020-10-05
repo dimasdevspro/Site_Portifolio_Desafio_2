@@ -1,21 +1,20 @@
-<h1 align="center"><img src="https://github.com/dimasdevspro/reviewFrontEnd/blob/master/LogoReviewFrontEnd.gif" height="150" weigth="150"></h1>
+<h1 align="center"><img src="assets/LogoReviewFrontEnd.gif" height="150" weigth="150"></h1>
 
 <p align="center"><img src="https://img.shields.io/badge/<HTML>-<green>"> <img src="https://img.shields.io/badge/<CSS>-<green>"> <img src="https://img.shields.io/badge/<Javascript>-<green>"> <img src="https://img.shields.io/badge/<NodeJs>-<green>"></p>
 
-<h1 align="center>ReviewFrontEnd</h1>
-
-# Indice
-
-- [Sobre](#-sobre)
-- [Status do Projeto](#-status-do-projeto)
-- [Features](#-features)
-- [Demonstração da Aplicação](#-demonstração-da-aplicação)
-- [Pré-requisitos](#-pré-requisitos)
-- [Testes](#-testes)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Autor](#-autor)
-- [Licença](#-licença)
-
+### Indice
+<!--ts-->
+* [Indice](#indice)
+* [Sobre](#sobre)
+* [Status do Projeto](#status-do-projeto)
+* [Features](#features)
+* [Demonstração da Aplicação](#demonstração-da-aplicação)
+* [Pré-requisitos](#pré-requisitos)
+* [Testes](#testes)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Autor](#autor)
+* [Licença](#licença)
+<!--te-->
 
 ### Sobre
 
@@ -50,9 +49,9 @@
 
 ### Demonstração da Aplicação
 
-<h1 align="center"><img src="https://github.com/dimasdevspro/Site_Portifolio_Desafio_2/blob/main/site_apli_p1_1.png" height="350" weigth="350"></h1>
+<h1 align="center"><img src="screenshots/site_apli_p1_1.png" height="350" weigth="350"></h1>
 
-<h1 align="center"><img src="https://github.com/dimasdevspro/Site_Portifolio_Desafio_2/blob/main/site_apli_p1_2.png" height="350" weigth="350"></h1>
+<h1 align="center"><img src="screenshots/site_apli_p1_2.png" height="350" weigth="350"></h1>
 
 Ou acesse a aplicação na <a href="https://dimasdevspro.github.io/Projeto%201%20-%20Portfolio/d2_1_index.html" target="_blank">rede</a>
 
