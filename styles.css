@@ -149,9 +149,10 @@
     /*=============media queries==============*/
 
     @media screen and (max-width: 800px){
-        .cards {
+        .cards, .infos p {
             width: 90%;
         }
+        
     }
 
     @media screen and (max-width: 480px){
